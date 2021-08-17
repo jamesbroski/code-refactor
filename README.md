@@ -10,4 +10,6 @@ In this first homework, the goal was to refactor the html and css codes provided
 
 4. Adjusted the title, header, and footer to make the elements semantic and accurate to the websites purpose. 
 
+Link to deployed application: https://jamesbroski.github.io/code-refactor/
+
 Note: I feel like this activity went well, and the finished product is more semantic and the code reflects more dry code. Yay!
